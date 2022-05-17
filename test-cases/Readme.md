@@ -19,4 +19,4 @@
 3. Каждый из блоков имеет дополнительную фильтрацию в виде выпадающих списков над 
 результатами поиска
 # Решение
-[тест-кейсы]:https://github.com/reshikoveqa/test-tasks/blob/main/test-cases/test-cases-kontur.pdf
+[тест-кейсы](https://github.com/reshikoveqa/test-tasks/blob/main/test-cases/test-cases-kontur.pdf)
